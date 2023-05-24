@@ -7,12 +7,6 @@
 
 ![AliceGIF](https://github.com/itBergamo/itBergamo/assets/105016708/89c497b0-8d50-47f9-b256-e28721ebe58d)
 
-<div>
-  <a href="https://beacons.ai/itBergamo">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=itBergamo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itBergamo&layout=compact&langs_count=16&theme=blue-green"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -20,20 +14,30 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-  ##
-  
-<div> </br>
- <a href="https://discord.gg/Bergamo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  </br>
+<div>
+<a href="https://discord.gg/Bergamo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:isabelathaisb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabela-bergamo-a5b115a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+</div>
+  
 ##
+
+<div>
+  <a href="https://beacons.ai/itBergamo">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=itBergamo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itBergamo&layout=compact&langs_count=16&theme=blue-green"/>
+</div>
 
 <div>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=itBergamo&theme=blue-green&date_format=j%2Fn%5B%2FY%5D"/><br/>
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{itBergamo}/count.svg" /></p> 
+</div>
+  
 ##
   
 ### Main skills:
@@ -62,12 +66,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-![Snake animation](https://raw.githubusercontent.com/itBergamo/itBergamo/output/github-contribution-grid-snake.svg)
- 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{itBergamno}/count.svg" /></p> 
-<br>
-</div>
-  
+<!-- ![Snake animation](https://raw.githubusercontent.com/itBergamo/itBergamo/output/github-contribution-grid-snake.svg) -->
+   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
