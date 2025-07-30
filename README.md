@@ -1,28 +1,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0396c7"/>
 
-<br>
-
 <div align="center">
   
   <b>`< HELLO WORLD! />`</b>
-  <br>
-  <br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=435&lines=Eu+sou+a+Isa+Bergamo" /> 
 </p>
-
-
-<br>
 <br>
 </div>
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FitBergamo&s=35&c=80d9ff&bg=00000000&no=2&ff=digi&tb=Minhas+Visitas%3A++&ta=" /></p> 
 </div>
-      
 <br>
-<br>
-      
 <div align="center">
   <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-3100-622f-84d4-0a8f3ae687b3/raw?se=2025-07-30T01%3A39%3A55Z&sp=r&sv=2024-08-04&sr=b&scid=e000737c-ba48-5e00-9b65-1186f954fa3b&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-29T18%3A51%3A47Z&ske=2025-07-30T18%3A51%3A47Z&sks=b&skv=2024-08-04&sig=2mbsr7lyFjHRtzAN6hH9QivdP7xVu3x0htlkP76BbWk%3D" width="300">
 </div>
