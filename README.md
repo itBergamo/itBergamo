@@ -7,7 +7,14 @@
   <b>`< HELLO WORLD! />`</b>
   <br>
   <br>
-  Eu sou a Isa Bergamo
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=435&lines=Eu+sou+a+Isa+Bergamo" /> 
+</p>
+
+
+<br>
+<br>
 </div>
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FitBergamo&s=35&c=80d9ff&bg=00000000&no=2&ff=digi&tb=Minhas+Visitas%3A++&ta=" /></p> 
