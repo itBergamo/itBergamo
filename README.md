@@ -30,23 +30,6 @@
   <br>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img
-          height="165"
-          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itBergamo&show_icons=true&count_private=true&rank_icon=github&theme=prussian"
-        />
-      </td>
-      <td>
-        <img
-          height="165"
-          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itBergamo&layout=compact&langs_count=16&theme=prussian"
-        />
-      </td>
-    </tr>
-  </table>
-  <br>
   <br>
   <img
     align="center"
