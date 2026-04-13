@@ -30,18 +30,22 @@
   <br>
 
 <div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="[https://github-readme-stats.vercel.app/api/?username=itBergamo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itBergamo)&show_icons=true&count_private=true&rank_icon=github&theme=prussian&font=Iosevka"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itBergamo&layout=compact&font=Iosevka&langs_count=16&theme=prussian"
-  />
+  <table align="center">
+    <tr>
+      <td>
+        <img
+          height="165"
+          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itBergamo&show_icons=true&count_private=true&rank_icon=github&theme=prussian"
+        />
+      </td>
+      <td>
+        <img
+          height="165"
+          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itBergamo&layout=compact&langs_count=16&theme=prussian"
+        />
+      </td>
+    </tr>
+  </table>
   <br>
   <br>
   <img
