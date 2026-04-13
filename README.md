@@ -34,7 +34,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=itBergamo&show_icons=true&count_private=true&rank_icon=github&theme=prussian&font=Iosevka"
+    src="[https://github-readme-stats.vercel.app/api/?username=itBergamo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itBergamo)&show_icons=true&count_private=true&rank_icon=github&theme=prussian&font=Iosevka"
   />
   <img
     height=165
